@@ -62,5 +62,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-IQZZ020501-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IQZZ020501)
+[![Blog](https://img.shields.io/badge/Blog-felix.muke.chat-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://felix.muke.chat/)
 
 </div>
