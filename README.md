@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Felix+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast;AI+%26+Cloud+Native+Builder" alt="Typing SVG" />
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=IQZZ020501%2FIQZZ020501&label=VISITORS&labelColor=%23222&countColor=%2358A6FF&style=flat-square)](https://visitorbadge.io/status?path=IQZZ020501%2FIQZZ020501)
-[![GitHub followers](https://img.shields.io/github/followers/IQZZ020501?label=Followers&style=flat-square&color=58A6FF&labelColor=222222)](https://github.com/IQZZ020501)
-[![GitHub stars](https://img.shields.io/github/stars/IQZZ020501?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=58A6FF&labelColor=222222)](https://github.com/IQZZ020501)
-
 </div>
 
 ---
@@ -33,10 +29,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IQZZ020501&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQZZ020501&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img height="180em" src="https://streak-stats.demolab.com?user=IQZZ020501&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=IQZZ020501&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" />
+<br/>
+<br/>
+
+<img width="800" src="https://ghchart.rshah.org/58A6FF/IQZZ020501" alt="Contribution Calendar" />
 
 </div>
 
@@ -56,27 +54,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=IQZZ020501&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 📫 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-IQZZ020501-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IQZZ020501)
-[![Email](https://img.shields.io/badge/Email-iqzz020501@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqzz020501@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" />
 </div>
