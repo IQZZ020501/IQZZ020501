@@ -27,6 +27,19 @@
 
 ---
 
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=IQZZ020501&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<br/>
+<br/>
+
+<img width="800" src="https://ghchart.rshah.org/58A6FF/IQZZ020501" alt="Contribution Calendar" />
+
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
