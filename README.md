@@ -63,3 +63,8 @@
 [![Blog](https://img.shields.io/badge/Blog-felix.muke.chat-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://felix.muke.chat/)
 
 </div>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks%20for%20stopping%20by&fontSize=30&fontAlign=50&fontAlignY=75&desc=Build%20with%20care.%20Ship%20with%20purpose.&descSize=16&descAlign=50&descAlignY=55&animation=twinkling" />
+</div>
