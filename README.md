@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+IQZZ+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast;AI+%26+Cloud+Native+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Felix+%F0%9F%91%8B;Full-Stack+Developer;Open+Source+Enthusiast;AI+%26+Cloud+Native+Builder" alt="Typing SVG" />
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=IQZZ020501%2FIQZZ020501&label=VISITORS&labelColor=%23222&countColor=%2358A6FF&style=flat-square)](https://visitorbadge.io/status?path=IQZZ020501%2FIQZZ020501)
 [![GitHub followers](https://img.shields.io/github/followers/IQZZ020501?label=Followers&style=flat-square&color=58A6FF&labelColor=222222)](https://github.com/IQZZ020501)
